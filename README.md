@@ -11,7 +11,7 @@ DeBank, as a leading user platform in the web3 industry, we're working actively 
 ## Dataset Content
 
 [Dataset](./valuable-users) includes users meeting any of the below requirements:
-- Net worth > 100USD
+- Net worth > 1000USD
 - "Web3 ID" minted
 - Addresses have followers on DeBank and TVF>0
 
