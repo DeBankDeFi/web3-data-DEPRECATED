@@ -1,3 +1,5 @@
+# Snapshot data of valuable Web3 users
+
 ## Dataset Overview
 
 As web3 technology rapidly advances, the industry is bustling with transformative potential. However, the growth has been tainted by disruptors exploiting the technology: sybil addresses, airdrop hunters, bot addresses with low net worth are everywhere on the chain. 
@@ -8,7 +10,7 @@ DeBank, as a leading user platform in the web3 industry, we're working actively 
 
 ## Dataset Content
 
-Dataset includes users meeting any of the below requirements:
+[Dataset](./valuable-users) includes users meeting any of the below requirements:
 - Net worth > 100USD
 - "Web3 ID" minted
 - Addresses have followers on DeBank and TVF>0
@@ -52,7 +54,7 @@ Data sources include public data information from addresses behavior on EVM-comp
 
 ## Usage & Updates
 
-The dataset is currently available for callers to use for free.
+The [dataset](./valuable-users) is currently available for callers to use for free.
 
 Our engineers will manually update the snapshots from time to time. You can subscribe for updates if needed.
 
