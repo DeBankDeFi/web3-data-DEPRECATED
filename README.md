@@ -1,4 +1,4 @@
-# Snapshot data of valuable Web3 users [deprecated]
+# Snapshot data of valuable Web3 users [DEPRECATED]
 
 
 ## Dataset Overview
